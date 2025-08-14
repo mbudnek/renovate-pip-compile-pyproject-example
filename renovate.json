@@ -4,6 +4,9 @@
   "pip-compile": {
     "fileMatch": ["requirements(-.*)?.txt"]
   },
+  "pip_requirements": {
+    "enabled": false
+  },
   "pep621": {
     "enabled": false
   }
