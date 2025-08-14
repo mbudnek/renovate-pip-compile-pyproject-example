@@ -44,7 +44,7 @@ packaging==25.0
     #   build
 pathspec==0.12.1
     # via black
-pip-tools==7.4.0
+pip-tools==7.5.0
     # via test-project (pyproject.toml)
 platformdirs==4.3.8
     # via black
